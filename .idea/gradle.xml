@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="JDK" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/library-aop" />
+            <option value="$PROJECT_DIR$/library-base" />
+            <option value="$PROJECT_DIR$/library-common" />
+            <option value="$PROJECT_DIR$/library-db" />
+            <option value="$PROJECT_DIR$/library-network" />
+            <option value="$PROJECT_DIR$/library-widget" />
+            <option value="$PROJECT_DIR$/module-home" />
+            <option value="$PROJECT_DIR$/module-login" />
+            <option value="$PROJECT_DIR$/module-mine" />
+            <option value="$PROJECT_DIR$/module-project" />
+            <option value="$PROJECT_DIR$/module-public" />
+            <option value="$PROJECT_DIR$/module-square" />
+            <option value="$PROJECT_DIR$/module-web" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

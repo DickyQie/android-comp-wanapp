@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">广场模块</string>
+    <string-array name="square_title" tools:ignore="ExtraTranslation">
+        <item>System</item>
+        <item>Navigate</item>
+    </string-array>
+</resources>

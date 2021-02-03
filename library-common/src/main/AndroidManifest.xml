@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zhangqie.common">
+
+    <application>
+        <provider
+            android:name=".AppContentProvider"
+            android:authorities="${applicationId}.android.appcontentprovider"
+            android:exported="false"
+            android:multiprocess="true" />
+    </application>
+
+
+</manifest>
